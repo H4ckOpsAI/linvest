@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Reports
+reports/*.pdf
+reports/*.html
+reports/*.json
+reports/*.md
+
+# Logs
+*.log
+
+# Build
+dist/
+build/
+
+# Cache
+.cache/
+.pytest_cache/
+
+# Environment
+.env
